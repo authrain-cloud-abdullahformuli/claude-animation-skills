@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Claude Animation Skills: Reel Animations for AI Coding Agents"
+authors:
+  - family-names: Formuli
+    given-names: Abdullah
+    email: authrainmedia@gmail.com
+url: "https://github.com/authrain-cloud-abdullahformuli/claude-animation-skills"
+date-released: 2026-11-02
+license: MIT

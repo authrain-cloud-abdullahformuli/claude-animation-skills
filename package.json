@@ -1,0 +1,29 @@
+{
+  "name": "claude-animation-skills",
+  "version": "1.0.0",
+  "description": "Six Claude Code skills that create animations for reels with no footage needed. Built with HyperFrames, three.js, GSAP, and Playwright.",
+  "type": "module",
+  "author": "Abdullah Formuli <authrainmedia@gmail.com> (https://github.com/authrain-cloud-abdullahformuli)",
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/claude-animation-skills#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/claude-animation-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/claude-animation-skills/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "claude-code",
+    "animation",
+    "motion-graphics",
+    "skills",
+    "threejs",
+    "hyperframes",
+    "reels",
+    "ai-animation"
+  ]
+}
